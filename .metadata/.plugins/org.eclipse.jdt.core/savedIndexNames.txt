@@ -1,0 +1,1 @@
+INDEX VERSION 1.132+E:\ORACLE\CURSO JAVA\.metadata\.plugins\org.eclipse.jdt.core
