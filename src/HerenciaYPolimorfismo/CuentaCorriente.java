@@ -12,7 +12,6 @@ public class CuentaCorriente extends Cuenta{
 	//SOBREESCRITURA DE METODO DEL PADRE CUENTA
 	@Override
 	public boolean retirar(double valor) {
-		// TODO Auto-generated method stub
 		return super.retirar(valor);
 	}
 }
