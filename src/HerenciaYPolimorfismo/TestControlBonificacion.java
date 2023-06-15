@@ -9,7 +9,7 @@ public class TestControlBonificacion {
 		
 		
 		Gerente jimena = new Gerente();
-		jimena.setSalario(10000);
+		
 		
 		ControlBonificacion controlbonificacion = new ControlBonificacion();
 		

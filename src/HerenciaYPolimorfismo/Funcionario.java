@@ -73,6 +73,9 @@ public class Funcionario {
 	
 	//lOS METODOS ABSTRACTOS NO TIENEN CUERPO.
 	
-	
+	//TODOS LOS METODOS DE LAS INTERFACES, SON ABSTRACTOS Y NO TIENEN CUERPO
+	//UNA INTERFAZ NO EXTIENDE DE UNA CLASE, SINO DE OTRA INTEFAZ
+	//para implemtar una clase interfaz en una clase normal, se hace con la palabra IMPLEMENTS
+		//Y ES OBLIGATORIO IMPLEMENTAR SUS METODOS
 
 }
