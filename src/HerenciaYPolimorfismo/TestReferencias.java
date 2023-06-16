@@ -12,7 +12,7 @@ public class TestReferencias {
 		
 		
 		funcionario.setSalario(2000);
-		
+		gerente.setSalario(10000);
 		
 		//SE PUEDE DECLARAR UN FUNCIONARIO COMO = NEW GERENTE(), PORQUE TODO GERENTE
 			//ES FUNCIONARIO
