@@ -20,7 +20,7 @@ public class Flujo {
 		System.out.println("Fin metodo1");
 	}
 	
-	private static void metodo2() {
+	private static void metodo2() throws MiException {
 		System.out.println("Inicion metodo2");
 		
 		throw new MiException("Mi excepcion fue lanzada");
@@ -65,6 +65,17 @@ public class Flujo {
 			//Se diferencian al momento de la compilacion
 		
 		
+		
+		/*
+		try {
+			
+		}catch (Exception e) {
+			// TODO: handle exception
+		} finally {
+			CON FINALLY SE CIERRA LA CONEXION SIEMPRE, ASI HAYA O NO EXCEPCION
+		}
+		
+		*/
 		
 		
 		
