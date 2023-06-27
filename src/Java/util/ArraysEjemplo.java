@@ -5,7 +5,10 @@ public class ArraysEjemplo {
 		
 		int edad = 20;
 		int edad2 = 15;
+		String cade = "Hola";
 		
+		
+		cade.substring(edad, edad2);
 		//Inicializar arreglo
 			//arreglo de 5 posiciones
 		int[] edades = new int [5];
