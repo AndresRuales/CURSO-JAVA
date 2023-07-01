@@ -28,6 +28,17 @@ public class Wrappes {
 		//EL METODO parseInt, parseDouble.... etc --> devuelve un PRIMITIVO
 		// EL METODO valueOf.... etc --> devuelve una referencia, un objeto
 		
+		
+		//DOS INTERFACES PARA DEFINIR LOS CRITERIOS PARA ORDENAR LOS ELEMENTOS DE LA LISTA
+			//JAVA.LANG.COMPARABLE --> Definir el orden natural de los elementos
+			//JVA.UTIL.COMPARATOR --> PARAMETRO DEL METODO sort DE LA LISTA Y DE LA CLASE
+				//COLLECTIONS
+		
+		//UNA INTERFAZ SOLA NO HACE NADA, NECESITA UNA CLASE,
+				//AHI ES DONDE JAVA PUEDE HACER UNA CLASE ANONIMA.
+		
+		
+		
 	}
 		
 	
